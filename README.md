@@ -3,9 +3,9 @@
   
 
 <p align="left"> 
-Desenvolvedor web e entusiasta Clean Code. Meu nome é Alexandro Hervis. 
+Entusiasta de arquitetura de softare. Meu nome é Alexandro Hervis. 
   
-Sou Desenvolvedor Front-End mas curto muito trabalhar com Nodejs. Apaixonado por inovação, tecnologia e empreendedorismo, gosto de estar sempre me atualizando as novas tecnologias do mercado, buscando levar diferentes experiências em UX UI para meus usuários. 
+Curto muito inovação, tecnologia e empreendedorismo, gosto de estar sempre me atualizando com as novas tecnologias do mercado, buscando levar diferentes experiências em UX UI para meus usuários. 
 
 Atualmente estou focado em NestJs e Backend, aplicando Clean Architecture, SOLID e TDD; 
 
